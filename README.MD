@@ -9,6 +9,7 @@ NOTE: I had to create a new GitHub account, because for some reason the 2FA stop
 
 ## Connect with me
 If you want to connect, I'm very active in LinkedIn: https://www.linkedin.com/in/damian-kleiman/ and on X (Twitter): https://twitter.com/damiankleiman
+Please do NOT connect to try to sell me stuff!
 
 ## Work proposals
 If you want to work with me, please contact me with job proposal at fliakleiman(at)gmail(dot)com. I'm looking for data science / python projects! 
