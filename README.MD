@@ -15,4 +15,4 @@ Please do NOT connect to try to sell me stuff!
 `
 
 ## Work proposals
-If you want to work with me, please contact me with job proposal at fliakleiman(at)gmail(dot)com. I'm looking for data science / python projects! 
+If you want to work with me, please contact me with job proposal at `fliakleiman(at)gmail(dot)com`. I'm looking for data science / python projects! 
