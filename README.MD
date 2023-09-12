@@ -1,7 +1,7 @@
 Hello, I'm 
 # Damian Kleiman
 
-I'm from Rosario Argentina. 
+I'm from Rosario, Argentina. 
 
 Python is my life, I've been using it for over 15 years. Lately I've been doing a lot of Data Science and Backend Web development. I also like photography and music, but that's for another site :) .
 
