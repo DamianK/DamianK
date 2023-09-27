@@ -24,7 +24,7 @@ Windows+WSL, Ubuntu Linux, MacOS
 `
 Prefered hardware:
 `
-Intel 13th gen processors, NVidia GPU
+Intel 13th gen processors, Intel ARC GPU
 `
 
 ## Connect with me
