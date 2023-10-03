@@ -22,6 +22,11 @@ Operating Systems:
 `
 Windows+WSL, Ubuntu Linux, MacOS
 `
+Clouds:
+`
+Amazon Web Services, Heroku, Azure & GCP
+`
+
 Prefered hardware:
 `
 Intel 13th gen processors, Intel ARC GPU
