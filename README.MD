@@ -12,7 +12,7 @@ NOTE: I had to create a new GitHub account, because for some reason the 2FA stop
 I always get asked what I use (although I think it does not really matter) so here it is:
 Editor:
 ` 
-Vim
+Vim & LightTable (for Clojure and some other things)
 `
 IDE:
 `
