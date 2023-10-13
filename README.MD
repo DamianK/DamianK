@@ -16,7 +16,7 @@ Vim & LightTable (for Clojure and some other things)
 `
 IDE:
 `
-PyCharm
+PyCharm & Visual Studio (for some desktop apps I've built with C# ... yeah..sometimes I don't do Python)
 `
 Operating Systems:
 `
