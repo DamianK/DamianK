@@ -12,7 +12,7 @@ NOTE: I had to create a new GitHub account, because for some reason the 2FA stop
 I always get asked what I use (although I think it does not really matter) so here it is:
 Editor:
 ` 
-Vim & LightTable (for Clojure and some other things)
+NeoVim (I'm not using LightTable anymore yeah..)
 `
 IDE:
 `
@@ -20,7 +20,7 @@ PyCharm & Visual Studio (for some desktop apps I've built with C# ... yeah..some
 `
 Operating Systems:
 `
-Windows+WSL, Ubuntu Linux, MacOS
+Windows+WSL, ArchLinux, MacOS
 `
 Clouds:
 `
