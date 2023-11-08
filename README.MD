@@ -12,11 +12,11 @@ NOTE: I had to create a new GitHub account, because for some reason the 2FA stop
 I always get asked what I use (although I think it does not really matter) so here it is:
 Editor:
 ` 
-NeoVim (I'm not using LightTable anymore yeah..)
+NeoVim (neardy I know..)
 `
 IDE:
 `
-PyCharm & Visual Studio (for some desktop apps I've built with C# ... yeah..sometimes I don't do Python)
+Not using IDEs at the moment!
 `
 Operating Systems:
 `
