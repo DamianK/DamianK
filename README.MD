@@ -1,5 +1,4 @@
-Hello, I'm 
-# Damian Kleiman
+Hello, I'm # Damian Kleiman
 
 I'm from Rosario, Argentina. 
 
