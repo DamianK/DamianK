@@ -14,10 +14,6 @@ Editor:
 ` 
 NeoVim (nerdy I know..)
 `
-IDE:
-`
-Not using IDEs at the moment!
-`
 Operating Systems:
 `
 Windows+WSL, ArchLinux, MacOS
