@@ -16,7 +16,7 @@ NeoVim (nerdy I know..)
 `
 Operating Systems:
 `
-Windows+WSL, ArchLinux, MacOS
+Desktop PC: Windows+WSL, Notebook: MacOS
 `
 Clouds:
 `
