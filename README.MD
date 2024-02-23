@@ -25,7 +25,7 @@ Amazon Web Services, Heroku, Azure & GCP
 
 Prefered hardware:
 `
-Intel 13th gen processors, Intel ARC GPU, Raspberry
+Intel 13th gen processors, Intel ARC GPU, Raspberry, ARM
 `
 
 ## Connect with me
