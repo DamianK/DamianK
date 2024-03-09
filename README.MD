@@ -20,12 +20,13 @@ Clouds:
 `
 Amazon Web Services, Heroku, Azure & GCP
 `
+I also love to use `Docker` a lot.
 
 Prefered hardware:
 `
 Intel 13th gen processors, Intel ARC GPU, Raspberry, ARM
 `
-I also love to use `Docker` a lot
+
 
 ## Connect with me
 If you want to connect, I'm very active in LinkedIn: https://www.linkedin.com/in/damian-kleiman/ and on X (Twitter): https://twitter.com/damiankleiman. In my spare time I like taking portraits, you can see some of that in my instagram: https://www.instagram.com/kleimandamian/ 
