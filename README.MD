@@ -10,7 +10,7 @@ Python is my life, I've been using it for over 20 years. Lately I've been doing 
 I always get asked what I use (although I think it does not really matter) so here it is:
 Editor:
 ` 
-NeoVim (nerdy I know..)
+NeoVim
 `
 Operating Systems:
 `
