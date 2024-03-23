@@ -1,6 +1,6 @@
 Hello, welcome to my corner in GitHub. I'm 
 <p align="center">
-# Damian Kleiman
+<b1>Damian Kleiman</h1>
 </p>
 I'm from Rosario, Argentina. 
 
