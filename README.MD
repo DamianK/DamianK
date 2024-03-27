@@ -1,7 +1,6 @@
 Hello, welcome to my corner in GitHub. I'm 
-<p align="center">
-<b1>Damian Kleiman</h1>
-</p>
+#Damian Kleiman
+
 I'm from Rosario, Argentina. 
 
 Python is my life, I've been using it for over 20 years. Lately I've been doing a lot of Data Science, GIS and Backend Web development. I also like photography and music, but that's for another site :) (check below)
