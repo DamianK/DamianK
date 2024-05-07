@@ -14,7 +14,7 @@ NeoVim
 `
 Operating Systems:
 `
-Desktop PC: Windows+WSL, Notebook: MacOS, Other: Raspberry
+Desktop PC: Windows+WSL, Notebook: MacOS, Other: Raspberry & Arduino
 `
 Clouds:
 `
