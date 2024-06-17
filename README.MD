@@ -11,7 +11,7 @@ Lately I've been doing a lot of Data Science, GIS (Geospatial Information Servic
 I always get asked what I use (although I think it does not really matter) so here it is:
 Terminal:
 `
-Alacritty
+Alacritty (and sometimes iTerm on macOS)
 `
 Editor:
 ` 
