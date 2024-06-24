@@ -34,7 +34,15 @@ Intel 13th gen processors, Intel ARC GPU, Raspberry, Arduino, ARM
 
 
 ## Connect with me
-If you want to connect, I'm very active in LinkedIn: https://www.linkedin.com/in/damian-kleiman/ and on X (Twitter): https://twitter.com/damiankleiman. In my spare time I like taking portraits, you can see some of that in my instagram: https://www.instagram.com/kleimandamian/ My 3D printing shop is at https://imprimir3d.com.ar (work in progress, guess it's time I update it but not much time yet). I also have a Python Blog in spanish at https://pythonesmimundo.blogspot.com/.
+If you want to connect, you can follow me on the following socials networks:
+- LinkedIn: https://www.linkedin.com/in/damian-kleiman/
+- X (Twitter): https://twitter.com/damiankleiman
+- Youtube: https://youtube.com/@damiankleiman
+- Twitch: https://twitch.tv/damiankleiman
+- instagram: https://www.instagram.com/kleimandamian/
+In my spare time I like taking portraits, you can see some of that there-
+
+My 3D printing shop is at https://imprimir3d.com.ar (work in progress, guess it's time I update it but not much time yet). I also have a Python Blog in spanish at https://pythonesmimundo.blogspot.com/.
 
 `
 Please do NOT connect to try to sell me stuff!
