@@ -4,7 +4,7 @@ Hello, welcome to my GitHub. I'm
 I'm from Rosario, Santa Fé, Argentina. 
 
 Python is my life, I've been using it for over 20 years. It was my choice many years ago with JavaScript (which you can't choose really because its what a browser understands - thanks Netscape).
-Lately I've been doing a lot of Data Science, GIS (Geospatial Information Services) and Backend Web development. I also like other languages like: Mojo, Rust, C++, and lately a bit of Zig.
+Lately I've been doing a lot of Data Science, GIS (Geospatial Information Services) and Backend Web development. I also like Mojo.
 In my spare time I do 3D printing, photography and music, but that's for another site :) (some can see a bit, check below)
 
 ## My development environment
