@@ -1,4 +1,4 @@
-Hello, welcome to my GitHub. I'm 
+Hello, welcome to my GitHub page. I'm 
 # Damian Kleiman
 
 I'm from Rosario, Santa Fé, Argentina. 
