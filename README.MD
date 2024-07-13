@@ -40,6 +40,7 @@ If you want to connect, you can follow me on the following socials networks:
 - X (Twitter): https://twitter.com/damiankleiman
 - Youtube: https://youtube.com/@damiankleiman
 - Twitch: https://twitch.tv/damiankleiman
+- Kick: https://kick.com/damiankleiman
 - Facebook: https://facebook.com/damian.kleiman
 - Instagram: https://www.instagram.com/kleimandamian/
   (In my spare time I like taking portraits, you can see some of that there)
