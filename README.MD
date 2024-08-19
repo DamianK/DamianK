@@ -5,7 +5,7 @@ I'm from Rosario, Argentina.
 
 Python is my life, I've been using it for over 20 years. It was my choice many years ago with JavaScript (which you can't choose really because its what a browser understands - thanks Netscape).
 Lately I've been doing a lot of Data Science, GIS (Geospatial Information Services) and Backend Web development. I also like Mojo.
-In my spare time I do 3D printing, photography and music (mostly using Ableton Live), which you can see on Instagram, Streams or YouTube (check below)
+In my spare time I do photography (which you can see on Instagram) and music.
 
 ## My development environment
 
