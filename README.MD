@@ -16,7 +16,7 @@ Alacritty (and sometimes iTerm on macOS)
 `
 Editor:
 ` 
-NeoVim
+NeoVim, VSCode
 `
 Operating Systems:
 `
