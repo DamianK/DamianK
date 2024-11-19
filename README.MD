@@ -24,7 +24,7 @@ Desktop PC: Windows+WSL, Notebook: MacOS, Other: Raspberry and Arduino
 `
 Clouds:
 `
-Amazon Web Services, Heroku, Azure
+Amazon Web Services, Azure
 `
 I also love to use `Docker` a lot.
 
