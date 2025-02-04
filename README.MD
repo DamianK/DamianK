@@ -12,8 +12,9 @@ In my spare time I do photography (which you can see on Instagram) and music.
 I always get asked what I use (although I think it does not really matter) so here it is:
 Terminal:
 `
-WezTerm (I switched to this amazing terminal at the beginning of 2025 and I'm using it on all Operating Systems. If you don't know it, check wezfurlong.org/wezterm.)
+WezTerm 
 `
+(I switched to this amazing terminal at the beginning of 2025 and I'm using it on all Operating Systems. If you don't know it, check wezfurlong.org/wezterm.)
 Editor:
 ` 
 NeoVim, VSCode
