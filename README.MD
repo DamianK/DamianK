@@ -3,7 +3,7 @@ Hello, I'm
 
 I'm from Rosario, Santa Fe, Argentina. 
 
-Python is my life, I've been using it for over 20 years (when I think it, close to 30 years now, oh my god). It was my choice many years ago with JavaScript (which you can't choose really because its what a browser understands - thanks Netscape). The JS framework I'm using is NextJS.
+Python is my life, I've been using it for over 20 years. It was my choice many years ago with JavaScript (which you can't choose really because its what a browser understands - thanks Netscape). The JS framework I'm using is NextJS.
 Lately I've been doing a lot of Data Science, GIS (Geospatial Information Systems) and Backend Web development. I also like Mojo, altough I generally don't use it much.
 In my spare time I do photography (which you can see on Instagram) and music.
 
