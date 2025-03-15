@@ -48,7 +48,7 @@ If you want to connect, you can follow me on the following socials networks:
 I also have a Python Blog in spanish at https://pythonesmimundo.blogspot.com/
 
 ## A bit more about Hobbies
-Altough I consider htem Hobbies, both Photography and Music have been sources of income (and sometimes are) my whole life. If you have interesting projects related to them do not hesitate to contact me.
+Altough I consider them hobbies, both photography and music have been sources of income (and sometimes are) my whole life. If you have interesting projects related to them do not hesitate to contact me.
 
 ## Work proposals
 If you want to work with me, please contact with job proposal at `fliakleiman(at)gmail(dot)com`. I'm looking for Data Science / GIS / Python and similar interesting projects! 
