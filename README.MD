@@ -21,7 +21,7 @@ NeoVim, VSCode
 `
 Operating Systems:
 `
-Desktop PC: macOS (at least for now), Notebook: macOS, Other: Raspberry and Arduino
+Desktop PC: macOS (at least for now) , Notebook: macOS, Other: Raspberry and Arduino
 `
 Clouds:
 `
