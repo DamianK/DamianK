@@ -13,14 +13,14 @@ Terminal:
 `
 WezTerm 
 `
-(I switched to this amazing terminal at the beginning of 2025 and I'm using it on all Operating Systems. If you don't know it, check wezfurlong.org/wezterm.)
+(I switched to this amazing terminal at the beginning of 2025 and I'm using it on macOS now. If you don't know it, check wezfurlong.org/wezterm.)
 Editor:
 ` 
 NeoVim, VSCode
 `
 Operating Systems:
 `
-Desktop PC: macOS (at least for now) , Notebook: macOS, Other: Raspberry and Arduino
+I'm now using macOS on both Desktop PC and laptop. Other OSs I use: Raspberry and Arduino
 `
 Clouds:
 `
