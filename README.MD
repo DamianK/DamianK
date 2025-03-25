@@ -11,7 +11,7 @@ In my spare time I do photography (which you can see on Instagram) and music (wh
 I always get asked what I use (although I think it does not really matter) so here it is:
 Terminal:
 `
-WezTerm 
+WezTerm (using with Zsh and Oh-My-Zsh)
 `
 (I switched to this amazing terminal at the beginning of 2025 and I'm using it on macOS now. If you don't know it, check wezfurlong.org/wezterm.)
 Editor:
