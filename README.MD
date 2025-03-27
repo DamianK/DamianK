@@ -13,8 +13,8 @@ Terminal:
 `
 WezTerm (using with Zsh and Oh-My-Zsh)
 `
-(I switched to this amazing terminal at the beginning of 2025 and I'm using it on macOS now. If you don't know it, check wezfurlong.org/wezterm.)
-Editor:
+I switched to this amazing terminal at the beginning of 2025 and I'm using it on macOS now. If you don't know it, check wezfurlong.org/wezterm.
+Editors:
 ` 
 NeoVim, VSCode
 `
@@ -30,7 +30,7 @@ I also love to use `Docker` a lot.
 
 Prefered hardware:
 `
-Intel 13th gen processors, Intel ARC GPU, Raspberry, Arduino, ARM
+Intel 13th gen processors, NVidia GPU, Raspberry, Arduino, ARM
 `
 
 
