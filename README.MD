@@ -37,7 +37,7 @@ Intel 13th gen processors, NVidia GPU, Raspberry, Arduino, ARM
 ## Connect with me
 If you want to connect, you can follow me on the following socials networks:
 - LinkedIn: https://www.linkedin.com/in/damian-kleiman/
-- X (Twitter): https://twitter.com/damiankleiman
+- X: https://x.com/damiankleiman
 - Youtube: https://youtube.com/@damiankleiman
 - Twitch: https://twitch.tv/damiankleiman
 - Facebook: https://facebook.com/damian.kleiman
