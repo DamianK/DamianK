@@ -26,7 +26,7 @@ Clouds:
 `
 Amazon Web Services, Azure
 `
-I also love to use `Docker` a lot.
+I also use `Docker` a lot.
 
 Prefered hardware:
 `
