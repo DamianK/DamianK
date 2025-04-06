@@ -20,7 +20,7 @@ NeoVim, VSCode
 `
 Operating Systems:
 `
-I'm now using macOS on both Desktop PC and laptop. Other OSs I use: Raspberry and Arduino
+I'm now using macOS on a Desktop PC. Other OSs I use: Raspberry and Arduino
 `
 Clouds:
 `
