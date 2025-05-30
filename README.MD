@@ -14,6 +14,10 @@ Terminal:
 `
 WezTerm (using with Zsh and Oh-My-Zsh)
 `
+SSH Client:
+`
+Termium
+`
 I switched to this amazing terminal at the beginning of 2025 after using Ghostty for a while and I'm using it on macOS now. If you don't know it, check wezfurlong.org/wezterm.
 Editors:
 ` 
