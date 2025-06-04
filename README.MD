@@ -5,7 +5,7 @@ I'm from Rosario, Santa Fe, Argentina.
 Python is my life, I've been using it for over 20 years (core, Django, Flask, FastAPI, Odoo, etc). It was my choice many years ago with JavaScript (which you can't choose really because its what a browser understands - thanks Netscape). The JS frameworks I'm using are mainly React and  NextJS.
 Lately I've been doing a lot of Data Science, GIS (Geospatial Information Systems) and Backend Web development. I've been using PostGIS a lot. I also like Mojo, altough I generally don't use it much. I'm doing quite a lot of data projects.
 In my spare time I do photography (which you can see on Instagram), music (which I'm too embarrased to share anywhere) and drawings.
-One of my goals for 2025 is to learn new technologies, and probably get again into mobile development. We'll see. 
+One of my goals for 2025 is to learn new technologies, and probably get again into mobile development, and obviously some AI. We'll see. 
 
 ## My development environment
 
