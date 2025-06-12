@@ -55,4 +55,4 @@ I also have a Python Blog in spanish at https://pythonesmimundo.blogspot.com/
 Altough I consider them hobbies, both photography and music have been sources of income (and sometimes are) my whole life. If you have interesting projects related to them do not hesitate to contact me.
 
 ## Work proposals
-If you want to work with me, please contact with job proposal at `fliakleiman(at)gmail(dot)com`. I'm looking for Data Science / GIS / Python and similar interesting projects! 
+If you want to work with me, please contact with job proposal at `fliakleiman(at)gmail(dot)com`. I'm looking for any kind of interesting projects! 
