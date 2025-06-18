@@ -35,7 +35,7 @@ I also use `Docker` a lot.
 
 Prefered hardware:
 `
-Intel 13th gen processors, NVidia & AMD GPUs, Raspberry, Arduino, ARM
+Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips like Snapdragon.
 `
 
 
