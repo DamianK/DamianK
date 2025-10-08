@@ -10,19 +10,23 @@ One of my goals for 2025 is to learn new technologies (new to me at least) and k
 ## My development environment
 
 I always get asked what I use (although I think it does not really matter) so here it is:
+
 Terminal:
 `
 WezTerm (using with Zsh and Oh-My-Zsh)
 `
+
 SSH Client:
 `
 Termius
 `
 I switched to this amazing terminal at the beginning of 2025 after using Ghostty for a while and I'm using it on macOS now. If you don't know it, check wezfurlong.org/wezterm.
+
 Editors:
 ` 
 NeoVim, VSCode, XCode for iOS dev
 `
+
 Operating Systems:
 `
 I'm now using macOS on a Desktop PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino
