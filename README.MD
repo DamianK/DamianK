@@ -44,7 +44,7 @@ Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips l
 
 IAs I use:
 `
-I'm currently using Copilot, Codeium & Claude (depending on tasks)
+I'm currently using Copilot, Codeium & Claude (depending on tasks) and Grok on X
 `
 
 
