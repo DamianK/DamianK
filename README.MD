@@ -42,7 +42,7 @@ Prefered hardware:
 Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips like Snapdragon.
 `
 
-IAs I use:
+AIs I use:
 `
 I'm currently using Copilot, Codeium & Claude (depending on tasks) and Grok on X
 `
