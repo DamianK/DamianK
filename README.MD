@@ -39,7 +39,7 @@ I also use `Docker` a lot.
 
 Prefered hardware:
 `
-Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips like Snapdragon.
+Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips like Snapdragon X Elite.
 `
 
 AIs I use:
