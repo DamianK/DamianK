@@ -29,7 +29,7 @@ NeoVim, VSCode, XCode for iOS dev
 
 Operating Systems:
 `
-I'm now using macOS on a Desktop PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino
+I'm now using macOS on a Desktop PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I also use Winoows 11 and WSL2 from time to time.
 `
 Clouds:
 `
