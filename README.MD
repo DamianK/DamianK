@@ -24,12 +24,12 @@ Termius
 
 Editors:
 ` 
-NeoVim, VSCode, XCode for iOS dev
+NeoVim, Antigravity (instead of VSCode, I'm loving it), XCode for iOS dev
 `
 
 Operating Systems:
 `
-I'm now using macOS on a Desktop PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I also use Winoows 11 and WSL2 from time to time.
+I'm now using macOS on my macbook and Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update.
 `
 Clouds:
 `
@@ -44,7 +44,7 @@ Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips l
 
 AIs I use:
 `
-I'm currently using Copilot, Codeium & Claude (depending on tasks) and Grok on X
+I'm currently using Copilot, Codeium & Sonnet (depending on tasks) and Grok on X
 `
 
 
