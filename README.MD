@@ -26,12 +26,12 @@ Termius
 
 Editors:
 ` 
-NeoVim, Antigravity (instead of VSCode, I'm loving it), XCode for iOS dev
+NeoVim, VSCode (back to it after some problerms with others)
 `
 
 Operating Systems:
 `
-I'm now using macOS on my macbook and Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update.
+I'm now using Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update. My macBook is now dead, so no macOS at this moment.
 `
 Clouds:
 `
