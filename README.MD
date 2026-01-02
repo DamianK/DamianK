@@ -7,7 +7,6 @@ I'm from Rosario, Santa Fe, Argentina. I started programming back in the C64 era
 
 Lately I've been doing a lot of Data Science, GIS (Geospatial Information Systems) and Backend Web development. I've been using PostGIS a lot. 
 In my spare time I do photography (which you can see on Instagram), music (which I'm too embarrased to share anywhere) and drawings.
-One of my goals for 2025 is to learn new technologies (new to me at least) and keep growing my tools. 
 
 ## My development environment
 
