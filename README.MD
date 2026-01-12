@@ -25,12 +25,12 @@ Termius
 
 Editors:
 ` 
-NeoVim, VSCode (back to it after some problerms with others)
+NeoVim, VSCode
 `
 
 Operating Systems:
 `
-I'm now using Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update. My macBook is now dead, so no macOS at this moment.
+I'm now using Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update. My macBook is now dead, so also no macOS at this moment.
 `
 Clouds:
 `
@@ -40,14 +40,13 @@ I also use `Docker` a lot.
 
 Prefered hardware:
 `
-Intel processors, AMD GPUs, Apple Silicon, Raspberry, Arduino, other ARM chips like Snapdragon X Elite.
+Intel processors, AMD GPUs, Raspberry, Arduino, other ARM chips like Snapdragon X Elite.
 `
 
 AIs I use:
 `
 I'm currently using Copilot, Codeium & Sonnet (depending on tasks) and Grok on X
 `
-
 
 ## Connect with me
 If you want to connect, you can follow me on the following socials networks:
