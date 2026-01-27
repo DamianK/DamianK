@@ -14,7 +14,7 @@ I always get asked what I use (although I think it does not really matter) so he
 
 Terminal:
 `
-Ghotty (using with Zsh and Oh-My-Zsh)
+Ghostty (using with Zsh and Oh-My-Zsh)
 `
 I went back to Ghostty after using Wezterm for a while. I'm using it on Linux now.
 
