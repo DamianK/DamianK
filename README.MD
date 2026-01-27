@@ -14,9 +14,9 @@ I always get asked what I use (although I think it does not really matter) so he
 
 Terminal:
 `
-WezTerm (using with Zsh and Oh-My-Zsh)
+Ghotty (using with Zsh and Oh-My-Zsh)
 `
-I switched to this amazing terminal at the beginning of 2025 after using Ghostty for a while and I'm using it on Linux now. If you don't know it, check wezfurlong.org/wezterm.
+I went back to Ghostty after using Wezterm for a while. I'm using it on Linux now.
 
 SSH Client:
 `
