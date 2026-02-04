@@ -1,7 +1,7 @@
 Hello, I'm 
 # Damian Kleiman
 
-Welcome 2026!
+Welcome 2026! What an awesome year this will be!
 
 I'm from Rosario, Santa Fe, Argentina. I started programming back in the C64 era with Basic, and then I switched to a Commodore Amiga and after that to a PC. I did some desktop applications in Pascal and later switched to web development using PHP, back in the time where PHP wasn't really awesome. Sometime later I discovered Python, and I loved it. Python is my life, I've been using it for over 20 years now (core, Django, Flask, FastAPI, Odoo, etc). It was my choice many years ago with JavaScript (which you can't choose really because its what a browser understands - thanks Netscape). The JS frameworks I'm using are mainly React and  NextJS, just because I need to use them to understand frontend. I also sometimes go back to PHP again, on client requests.
 
