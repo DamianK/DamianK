@@ -49,7 +49,7 @@ I'm currently using Copilot, Codeium & Sonnet (depending on tasks) and Grok on X
 `
 
 ## Connect with me
-If you want to connect, you can follow me on the following socials networks:
+This 2026 I really want to grow my social networks. So if you want to connect, go follow me now:
 - LinkedIn: https://www.linkedin.com/in/damian-kleiman/
 - X: https://x.com/damiankleiman
 - Youtube: https://youtube.com/@damiankleiman
