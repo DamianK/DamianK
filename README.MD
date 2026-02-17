@@ -30,7 +30,7 @@ NeoVim, VSCode
 
 Operating Systems:
 `
-I'm now using Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update. My macBook is now dead, so also no macOS at this moment.
+I'm now using Ubuntu Desktop on my PC. I also have another disk with Omarchy (@dhh 's distribution of ArchLinux). Other OSs I use: Raspberry and Arduino. I completely stopped using Winoows 11 everywhere after the last update. Thanks to a great technician my old MacBook is back to life, so I can start testing and doing macOS stuff again.
 `
 Clouds:
 `
