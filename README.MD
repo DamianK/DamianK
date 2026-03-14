@@ -16,7 +16,7 @@ Terminal:
 `
 Ghostty (using with Zsh and Oh-My-Zsh)
 `
-I went back to Ghostty after using Wezterm for a while. I'm using it on Linux now.
+I went back to Ghostty after using Wezterm for a while. I'm using it on Linux (Ubuntu 26.04) now.
 
 SSH Client:
 `
