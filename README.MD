@@ -47,7 +47,7 @@ Intel processors, AMD GPUs, Raspberry, Arduino, other ARM chips like Snapdragon 
 
 AIs I use:
 `
-I'm currently using Copilot, Codeium & Sonnet (depending on tasks) and Grok on X
+I'm currently using Codex for coding and Grok on X
 `
 
 ## Connect with me
