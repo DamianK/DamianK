@@ -16,9 +16,9 @@ I always get asked what I use (although I think it does not really matter) so he
 
 Terminal:
 `
-Ghostty (using with Zsh and Oh-My-Zsh)
+Ptyxis (using with Zsh and Oh-My-Zsh)
 `
-I went back to Ghostty after using Wezterm for a while. I'm using it on Ubuntu now.
+I started testing Ptyxis after using Ghostty and Wezterm for a while. This is because I'm using it on Ubuntu now.
 
 SSH Client:
 `
