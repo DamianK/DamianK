@@ -58,7 +58,7 @@ This 2026 I really want to grow my social networks. So if you want to connect, g
 - Twitch: https://twitch.tv/damiankleiman
 - Facebook: https://facebook.com/damian.kleiman
 - Instagram: https://www.instagram.com/kleimandamian/
-  (In my spare time I like taking portraits, you can see some of that there)
+  (In my spare time I like taking portraits, you can see some of that there - Be aware I have not used this account in a couple of years)
 
 I also have a Python Blog in spanish at https://pythonesmimundo.blogspot.com/
 
